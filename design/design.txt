@@ -49,6 +49,12 @@ main layout:
     *employees
     -----
 
+-pricing // contact
+    *link to cost calculator
+    ---------
+    *contact info
+    *submit-a-question form
+    --------
 
 
 
@@ -58,10 +64,6 @@ main layout:
     *form
     ------
 
--contact form
-    *contact info
-    *submit-a-question form
-    --------
 -get a quote
     *price list (table)
     ------------
